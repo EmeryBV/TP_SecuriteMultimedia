@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/TP1.dir/insertionDonneesDansImageChiffrees.cpp.o -o TP1 

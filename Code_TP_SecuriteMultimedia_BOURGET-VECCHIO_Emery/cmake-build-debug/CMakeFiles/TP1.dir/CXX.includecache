@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bourget-vecchio/Documents/Master_IMAGINA/M2/Image/Code_TP_SecuriteMultimedia_BOURGET-VECCHIO_Emery/image_ppm.h
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+math.h
+-
+
+/home/bourget-vecchio/Documents/Master_IMAGINA/M2/Image/Code_TP_SecuriteMultimedia_BOURGET-VECCHIO_Emery/insertionDonneesDansImageChiffrees.cpp
+stdio.h
+-
+image_ppm.h
+/home/bourget-vecchio/Documents/Master_IMAGINA/M2/Image/Code_TP_SecuriteMultimedia_BOURGET-VECCHIO_Emery/image_ppm.h
+
